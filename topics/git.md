@@ -1,8 +1,4 @@
-# MIR Allgemein
-
-- [Folien](mir_allgemein.pdf) 
-
-## Jupyter Notebooks
+# git
 
 Navigiert in den Ordner eurer Wahl, den ihr als Projektordner hernehmen wollt.
 
@@ -14,6 +10,5 @@ Um das Repository bei euch auf dem neuesten Stand zu halten oder upzudaten:
 
 ```git pull```
 
-Um das Jupyter Notebook zu starten:
-
-```jupyter notebook```
+## Resources
+1. 
