@@ -1,6 +1,6 @@
 # 19. Apr 2022: Jupyter | Markdown | Numpy
 
-- Jupyter Notebooks
+- [Jupyter Notebooks](topics/jupyter_notebooks.md)
   	- Edit Mode
 	- Cell-Mode
 	- Jupyter Extensions
