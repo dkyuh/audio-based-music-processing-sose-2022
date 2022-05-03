@@ -18,6 +18,10 @@
 - **19. Juli 2022 |** 
 - **26. Juli 2022 |** 
 
+## Übungsblätter
+
+- bis 16. Mai 2022: [ueb_01_midi_freq_mod](/uebungsblaetter/ueb_01_midi_freq_mod.ipynb) 
+
 ## Topics
 - [git](/topics/git.md)
 - [Markdown](/topics/markdown.md)
