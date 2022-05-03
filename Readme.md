@@ -4,7 +4,7 @@
 - **[12. April 2022 | MIR Allgemein](/sessions/00_mir_allgemein.md)**
 - **[19. April 2022 | Jupyter | Markdown | Numpy](/sessions/01_jupyter_numpy.md)**
 - **[26. April 2022 | More Numpy | Matplotlib Intro](/sessions/02_numpy_matplotlib.md)** 
-- **3. Mai 2022 |** 
+- **[3. Mai 2022 | Sinus generieren | Frequenzen, Pitches, MIDI](/sessions/03_sinus_midi.md)** 
 - **10. Mai 2022 |** 
 - **17. Mai 2022 |** 
 - **24. Mai 2022 |** 
@@ -25,3 +25,28 @@
 - [MIR allgemein](/topics/mir_allgemein.pdf)
 - [NumPy](/topics/numpy.ipynb)
 - [Matplotlib](/topics/matplotlib.ipynb)
+- [Mathematik-Grundlagen](/topics/Mathematik-Grundlagen.md)
+- [Python](/topics/Python.ipynb)
+- [Sinus generieren](/topics/sinus_generieren.ipynb)
+- [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.ipynb)
+
+### Future Topics
+
+- Audio-Dateien lesen
+- Time-Framing / Windowing
+- Fourier Transformation (komplexe Zahlen, eulersche Zahl / e-Funktion -> Kreisbewegung)
+- (Kurz-Zeit) Spektrogramm
+- FFT in real-time applications
+- Audio-Features
+- Log-Frequency-Scaled Spectrogram
+- Chromagram
+- Chord Recognition (template-based)
+- Interpolation
+- Track Separation
+- Track Separation using SMS-Tools
+- Novelty-based Segmentation
+- (Acoustic Environment Analysis)
+- Automatic Music Transcription using Non-Negative Matrix Factorisation
+- Onset Detection
+- Clustering / Classification
+- f0-estimation
