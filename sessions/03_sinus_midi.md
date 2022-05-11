@@ -1,14 +1,14 @@
 #  3. Mai 2022: Sinus generieren | Frequenzen, Pitches, MIDI
 
-- [Numpy](/topics/numpy.ipynb)
-	- Runden mit `np.round`
-	- Sine-function `np.sin`
-- [Python](/topics/Python.ipynb)
-	- Strings (`'\n'` and `'\t'`)
-- [Sinus generieren](/topics/sinus_generieren.ipynb)
-- [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.ipynb)
+- [numpy](/topics/numpy.md)
+	- [Runden](/topics/numpy.md#Runden) mit `np.round`
+	- [Sine-Function](/topics/numpy.md#Sine-Function) `np.sin`
+- [Python](/topics/Python.md) 
+	- [Strings](/topics/Python.md#Strings) (`'\n'` and `'\t'`)
+- [Sinus generieren](/topics/sinus_generieren.md)
+- [Frequenzen Pitches MIDI](/topics/frequenz_pitches_midi.md) 
 - [Mathematik-Grundlagen](/topics/Mathematik-Grundlagen.md)
-	- Exponenten Rechenregeln
+	- [Exponenten Rechenregeln](/topics/Mathematik-Grundlagen.md#Exponenten%20Rechenregeln)
 
 ## Resources
 1. 
