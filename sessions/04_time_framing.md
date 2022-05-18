@@ -1,4 +1,4 @@
-#  Tu. May 2022: 04_time_framing
+#  10. Mai 2022: 04_time_framing
 
 - [Time-Framing / Windowing](/topics/time_framing.md)
 - [numpy](/topics/numpy.md)

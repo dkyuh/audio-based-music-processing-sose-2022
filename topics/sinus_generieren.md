@@ -21,7 +21,6 @@ from IPython.display import Audio
 
 # Sinus generieren
 
-
 ![](../data/img/2022-05-03_01_sine.jpg)
 
 ```python

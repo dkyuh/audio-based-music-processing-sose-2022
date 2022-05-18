@@ -6,7 +6,7 @@
 - **[26. April 2022 | More Numpy | Matplotlib Intro](/sessions/02_numpy_matplotlib.md)** 
 - **[3. Mai 2022 | Sinus generieren | Frequenzen, Pitches, MIDI](/sessions/03_sinus_midi.md)** 
 - **[10. Mai 2022 | Time-Framing](/sessions/04_time_framing.md)** 
-- **17. Mai 2022 |** 
+- **[17. Mai 2022 | Komplexe Zahlen | Operationen mit komplexen Zahlen](/sessions/05_komplexe_zahlen.md)**
 - **24. Mai 2022 |** 
 - **31. Mai 2022 |** 
 - **7. Juni 2022 |** 
@@ -22,6 +22,7 @@
 
 - bis 16. Mai 2022: [ueb_01_midi_freq_mod](/uebungsblaetter/ueb_01_midi_freq_mod.ipynb) 
 - bis 23. Mai 2022: [ueb_02_rms_framing](/uebungsblaetter/ueb_02_rms_framing.ipynb)
+- bis 31. Mai 2022: [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
@@ -35,6 +36,7 @@
 - [Sinus generieren](/topics/sinus_generieren.md)
 - [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.md)
 - [Time-Framing](topics/time_framing.md)
+- [komplexe_zahlen_operationen slides](/topics/komplexe_zahlen_operationen%20slides.pdf)
 
 ### Future Topics
 
