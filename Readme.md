@@ -36,7 +36,7 @@
 - [Sinus generieren](/topics/sinus_generieren.md)
 - [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.md)
 - [Time-Framing](topics/time_framing.md)
-- [komplexe_zahlen_operationen slides](/topics/komplexe_zahlen_operationen%20slides.pdf)
+- [komplexe_zahlen_operationen slides](topics/komplexe_zahlen_operationen_slides.pdf)
 
 ### Future Topics
 
