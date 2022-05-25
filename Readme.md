@@ -7,7 +7,7 @@
 - **[3. Mai 2022 | Sinus generieren | Frequenzen, Pitches, MIDI](/sessions/03_sinus_midi.md)** 
 - **[10. Mai 2022 | Time-Framing](/sessions/04_time_framing.md)** 
 - **[17. Mai 2022 | Komplexe Zahlen | Operationen mit komplexen Zahlen](/sessions/05_komplexe_zahlen.md)**
-- **24. Mai 2022 |** 
+- **[24. Mai 2022 | Wiederholung komplexe Zahlen | Exponentialfunktion](/sessions/06_wiederholung_komplexe_zahlen_exponential_funktion.md)** 
 - **31. Mai 2022 |** 
 - **7. Juni 2022 |** 
 - **14. Juni 2022 |** 
