@@ -33,3 +33,7 @@ also see: [Windowing Time-Framing](/topics/time_framing.md#Windowing%20Time-Fram
 print(13 / 5)
 print(13 // 5) # --> teilung ohne rest
 ```
+
+## Komplexe Zahlen in Python
+
+- siehe [Komplexe Zahlen in Python](/topics/Mathematik-Grundlagen.md#Komplexe%20Zahlen%20in%20Python)

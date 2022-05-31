@@ -8,7 +8,7 @@
 - **[10. Mai 2022 | Time-Framing](/sessions/04_time_framing.md)** 
 - **[17. Mai 2022 | Komplexe Zahlen | Operationen mit komplexen Zahlen](/sessions/05_komplexe_zahlen.md)**
 - **[24. Mai 2022 | Wiederholung komplexe Zahlen | Exponentialfunktion](/sessions/06_wiederholung_komplexe_zahlen_exponential_funktion.md)** 
-- **31. Mai 2022 |** 
+- **[31. Mai 2022 | Komplexe Zahlen in Python | Exponentialfunktion](/sessions/07_komplexe_zahlen_in_python_exponentialfunktion.md)** 
 - **7. Juni 2022 |** 
 - **14. Juni 2022 |** 
 - **21. Juni 2022 |** 
@@ -40,8 +40,6 @@
 
 ### Future Topics
 
-- Audio-Dateien lesen
-- Time-Framing / Windowing
 - Fourier Transformation (komplexe Zahlen, eulersche Zahl / e-Funktion -> Kreisbewegung)
 - (Kurz-Zeit) Spektrogramm
 - FFT in real-time applications
