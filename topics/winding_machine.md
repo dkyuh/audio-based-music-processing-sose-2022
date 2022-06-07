@@ -13,14 +13,17 @@ jupyter:
     name: python3
 ---
 
-```python id="-zqIW8BleHcK"
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 ```
 
+## Winding Machine
+
+
 also see: [enumerate](/topics/Python.md#enumerate)
 
-```python id="w2UMNkM_jF6f" outputId="440dd6a2-0292-4fb5-fd1a-a35a616c3e71" colab={"base_uri": "https://localhost:8080/", "height": 1000}
+```python
 sr = 100
 length = 1
 freq1, freq2 = 2, 5
@@ -36,7 +39,7 @@ for i, winding_freq in enumerate(winding_freqs):
     winded = exp_func * x
     pom = np.mean(winded) # "point of mass"
     mag[i] = np.abs(pom)
-    print(pom)
+#     print(pom)
 
 
     plt.figure(figsize=(5 * 3, 5))
