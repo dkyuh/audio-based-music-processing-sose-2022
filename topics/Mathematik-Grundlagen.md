@@ -171,5 +171,10 @@ plt.show()
 ```
 
 
+
+## Inner Product
+
+ $\langle x_n, y_n \rangle := \sum_{n=0}^{N-1}x_n \cdot \overline{y_n}$ oder $\langle f, g \rangle := \int_{-\infty}^{\infty} f(t) \cdot \overline{g(t)} \  dt$ ist ein populäres Ähnlichkeitsmaß.
+
 ## Resources
 1. 

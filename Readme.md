@@ -9,20 +9,20 @@
 - **[17. Mai 2022 | Komplexe Zahlen | Operationen mit komplexen Zahlen](/sessions/05_komplexe_zahlen.md)**
 - **[24. Mai 2022 | Wiederholung komplexe Zahlen | Exponentialfunktion](/sessions/06_wiederholung_komplexe_zahlen_exponential_funktion.md)** 
 - **[31. Mai 2022 | Komplexe Zahlen in Python | Exponentialfunktion](/sessions/07_komplexe_zahlen_in_python_exponentialfunktion.md)** 
-- **7. Juni 2022 |** 
+- **[7. Juni 2022 | Similarity | Winding Machine](/sessions/08_similarity_winding_machine.md)** 
 - **14. Juni 2022 |** 
 - **21. Juni 2022 |** 
 - **28. Juni 2022 |** 
 - **5. Juli 2022 |** 
 - **12. Juli 2022 |** 
 - **19. Juli 2022 |** 
-- **26. Juli 2022 |** 
 
 ## Übungsblätter
 
 - bis 16. Mai 2022: [ueb_01_midi_freq_mod](/uebungsblaetter/ueb_01_midi_freq_mod.ipynb) 
 - bis 23. Mai 2022: [ueb_02_rms_framing](/uebungsblaetter/ueb_02_rms_framing.ipynb)
 - bis 31. Mai 2022: [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
+- bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
@@ -40,13 +40,12 @@
 
 ### Future Topics
 
-- Fourier Transformation (komplexe Zahlen, eulersche Zahl / e-Funktion -> Kreisbewegung)
+- Fourier Transformation
 - (Kurz-Zeit) Spektrogramm
 - FFT in real-time applications
 - Audio-Features
 - Log-Frequency-Scaled Spectrogram
 - Chromagram
-- Chord Recognition (template-based)
 - Interpolation
 - Track Separation
 - Track Separation using SMS-Tools
