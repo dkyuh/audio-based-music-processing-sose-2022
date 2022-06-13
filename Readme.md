@@ -37,6 +37,9 @@
 - [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.md)
 - [Time-Framing](topics/time_framing.md)
 - [komplexe_zahlen_operationen slides](topics/komplexe_zahlen_operationen_slides.pdf)
+- Chord Recognition (advanced)
+	- [Chord Recognition (template based)](/topics/chord_recognition_template_based.ipynb)
+	- [Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm](/topics/chord_recognition_hmm_viterbi.ipynb)
 
 ### Future Topics
 
