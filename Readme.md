@@ -10,7 +10,7 @@
 - **[24. Mai 2022 | Wiederholung komplexe Zahlen | Exponentialfunktion](/sessions/06_wiederholung_komplexe_zahlen_exponential_funktion.md)** 
 - **[31. Mai 2022 | Komplexe Zahlen in Python | Exponentialfunktion](/sessions/07_komplexe_zahlen_in_python_exponentialfunktion.md)** 
 - **[7. Juni 2022 | Similarity | Winding Machine](/sessions/08_similarity_winding_machine.md)** 
-- **14. Juni 2022 |** 
+- **[ 14. Juni 2022 | Diskrete Fourier Transformation | Short Time Fourier Transformation](/sessions/09_dft_stft.md)** 
 - **21. Juni 2022 |** 
 - **28. Juni 2022 |** 
 - **5. Juli 2022 |** 
@@ -20,9 +20,13 @@
 ## Übungsblätter
 
 - bis 16. Mai 2022: [ueb_01_midi_freq_mod](/uebungsblaetter/ueb_01_midi_freq_mod.ipynb) 
+	- 
 - bis 23. Mai 2022: [ueb_02_rms_framing](/uebungsblaetter/ueb_02_rms_framing.ipynb)
+	- 
 - bis 31. Mai 2022: [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
+	- 
 - bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
+- bis 28. Juni 2022: [ueb_05_stft_heisenberg](/uebungsblaetter/ueb_05_stft_heisenberg.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
@@ -40,6 +44,8 @@
 - Chord Recognition (advanced)
 	- [Chord Recognition (template based)](/topics/chord_recognition_template_based.ipynb)
 	- [Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm](/topics/chord_recognition_hmm_viterbi.ipynb)
+- [Diskrete Fourier Transformation](/topics/diskrete_fourier_transformation.md)
+- [(Discrete) Shoft Time Fourier Transform](/topics/stft.md)
 
 ### Future Topics
 

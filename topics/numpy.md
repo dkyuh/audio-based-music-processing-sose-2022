@@ -370,3 +370,29 @@ print(a)
 print(np.max(a))
 print(np.min(a))
 ```
+
+## newaxis
+
+siehe [DFT-Matrix](/topics/diskrete_fourier_transformation.md#DFT-Matrix)
+
+```python
+# np.newaxis
+
+a = np.arange(4) + 1
+
+b = np.arange(0, 400, 100) + 100
+
+print('a:\t', a)
+print('b:\t', b)
+
+a * b[:, np.newaxis]
+```
+
+```python
+#        a   1    2    3    4
+#   b                        
+#  100      100  200  300  400
+#  200      200  400  600  800
+#  300      300  600  900 1200
+#  400      400  800 1200 1600
+```

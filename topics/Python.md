@@ -15,7 +15,6 @@ jupyter:
 
 # Python specific stuff
 
-
 ## Strings
 
 ```python
