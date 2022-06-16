@@ -20,11 +20,11 @@
 ## Übungsblätter
 
 - bis 16. Mai 2022: [ueb_01_midi_freq_mod](/uebungsblaetter/ueb_01_midi_freq_mod.ipynb) 
-	- 
+	- [ueb_01: Lösungsmöglichkeit](/uebungsblaetter/ueb_01_midi_freq_mod_loesungsansatz.ipynb)
 - bis 23. Mai 2022: [ueb_02_rms_framing](/uebungsblaetter/ueb_02_rms_framing.ipynb)
-	- 
+	- [ueb_02: Lösungsmöglichkeit](/uebungsblaetter/ueb_02_rms_framing.ipynb)
 - bis 31. Mai 2022: [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
-	- 
+	- [ueb_03: Lösungsmöglichkeit](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 - bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
 - bis 28. Juni 2022: [ueb_05_stft_heisenberg](/uebungsblaetter/ueb_05_stft_heisenberg.ipynb)
 
