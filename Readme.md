@@ -11,7 +11,7 @@
 - **[31. Mai 2022 | Komplexe Zahlen in Python | Exponentialfunktion](/sessions/07_komplexe_zahlen_in_python_exponentialfunktion.md)** 
 - **[7. Juni 2022 | Similarity | Winding Machine](/sessions/08_similarity_winding_machine.md)** 
 - **[ 14. Juni 2022 | Diskrete Fourier Transformation | Short Time Fourier Transformation](/sessions/09_dft_stft.md)** 
-- **21. Juni 2022 |** 
+- **[21. Juni 2022 | Log-Freq-Scaled-Spectrogram](/sessions/10_logfreq.md)**
 - **28. Juni 2022 |** 
 - **5. Juli 2022 |** 
 - **12. Juli 2022 |** 
@@ -46,6 +46,7 @@
 	- [Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm](/topics/chord_recognition_hmm_viterbi.ipynb)
 - [Diskrete Fourier Transformation](/topics/diskrete_fourier_transformation.md)
 - [(Discrete) Shoft Time Fourier Transform](/topics/stft.md)
+- [Logarithm-Frequency-Scaled Spectrogram](/topics/log_freq_spec.md)
 
 ### Future Topics
 
