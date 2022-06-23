@@ -26,7 +26,9 @@
 - bis 31. Mai 2022: [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 	- [ueb_03: Lösungsmöglichkeit](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 - bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
+	- [ueb_04_dft_eigenschaften_loesungsvorschlag](/uebungsblaetter/ueb_04_dft_eigenschaften_loesungsvorschlag.ipynb)
 - bis 28. Juni 2022: [ueb_05_stft_heisenberg](/uebungsblaetter/ueb_05_stft_heisenberg.ipynb)
+- bis 5. Juli 2022: [ueb_06_chroma](/uebungsblaetter/ueb_06_chroma.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
