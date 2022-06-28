@@ -12,7 +12,7 @@
 - **[7. Juni 2022 | Similarity | Winding Machine](/sessions/08_similarity_winding_machine.md)** 
 - **[ 14. Juni 2022 | Diskrete Fourier Transformation | Short Time Fourier Transformation](/sessions/09_dft_stft.md)** 
 - **[21. Juni 2022 | Log-Freq-Scaled-Spectrogram](/sessions/10_logfreq.md)**
-- **28. Juni 2022 |** 
+- **[28. Juni 2022 | Non-Negative Matrix Factorization](/sessions/11_nmf.md)**
 - **5. Juli 2022 |** 
 - **12. Juli 2022 |** 
 - **19. Juli 2022 |** 
@@ -28,6 +28,7 @@
 - bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
 	- [ueb_04_dft_eigenschaften_loesungsvorschlag](/uebungsblaetter/ueb_04_dft_eigenschaften_loesungsvorschlag.ipynb)
 - bis 28. Juni 2022: [ueb_05_stft_heisenberg](/uebungsblaetter/ueb_05_stft_heisenberg.ipynb)
+	- [[ueb05]]
 - bis 5. Juli 2022: [ueb_06_chroma](/uebungsblaetter/ueb_06_chroma.ipynb)
 
 ## Topics
@@ -49,21 +50,16 @@
 - [Diskrete Fourier Transformation](/topics/diskrete_fourier_transformation.md)
 - [(Discrete) Shoft Time Fourier Transform](/topics/stft.md)
 - [Logarithm-Frequency-Scaled Spectrogram](/topics/log_freq_spec.md)
+- [Nonnegative Matrix Factorization](/topics/nonnegative_matrix_factorization.md)
 
 ### Future Topics
 
-- Fourier Transformation
-- (Kurz-Zeit) Spektrogramm
 - FFT in real-time applications
 - Audio-Features
-- Log-Frequency-Scaled Spectrogram
-- Chromagram
 - Interpolation
 - Track Separation
 - Track Separation using SMS-Tools
-- Novelty-based Segmentation
 - (Acoustic Environment Analysis)
-- Automatic Music Transcription using Non-Negative Matrix Factorisation
 - Onset Detection
 - Clustering / Classification
 - f0-estimation
