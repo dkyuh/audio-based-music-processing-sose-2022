@@ -52,13 +52,13 @@
 - [(Discrete) Shoft Time Fourier Transform](/topics/stft.md)
 - [Logarithm-Frequency-Scaled Spectrogram](/topics/log_freq_spec.md)
 - [Nonnegative Matrix Factorization](/topics/nonnegative_matrix_factorization.md)
+- [Novetly based Temporal Segmentation (advanced)](/topics/novetly_based_temporal_segmentation.ipynb)
+- [More Audio Features](/topics/more_audio_features.md)
 
 ### Future Topics
 
 - FFT in real-time applications
-- Audio-Features
 - Interpolation
-- Track Separation
 - Track Separation using SMS-Tools
 - (Acoustic Environment Analysis)
 - Onset Detection
