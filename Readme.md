@@ -13,7 +13,7 @@
 - **[ 14. Juni 2022 | Diskrete Fourier Transformation | Short Time Fourier Transformation](/sessions/09_dft_stft.md)** 
 - **[21. Juni 2022 | Log-Freq-Scaled-Spectrogram](/sessions/10_logfreq.md)**
 - **[28. Juni 2022 | Non-Negative Matrix Factorization](/sessions/11_nmf.md)**
-- **5. Juli 2022 |** 
+- **[5. Juli 2022 | More Audio Features](/sessions/12_more_audio_features.md)**
 - **12. Juli 2022 |** 
 - **19. Juli 2022 |** 
 
@@ -28,8 +28,9 @@
 - bis 21. Juni 2022: [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
 	- [ueb_04_dft_eigenschaften_loesungsvorschlag](/uebungsblaetter/ueb_04_dft_eigenschaften_loesungsvorschlag.ipynb)
 - bis 28. Juni 2022: [ueb_05_stft_heisenberg](/uebungsblaetter/ueb_05_stft_heisenberg.ipynb)
-	- [[ueb05]]
+	- [ueb_05_stft_heisenberg_loesungsvorschlag](/uebungsblaetter/ueb_05_stft_heisenberg_loesungsvorschlag.ipynb)
 - bis 5. Juli 2022: [ueb_06_chroma](/uebungsblaetter/ueb_06_chroma.ipynb)
+	- [ueb_06_chroma_loesungsvorschlag](/uebungsblaetter/ueb_06_chroma_loesungsvorschlag.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
