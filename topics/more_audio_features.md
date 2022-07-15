@@ -1,13 +1,14 @@
 ---
 jupyter:
   jupytext:
+    formats: md,ipynb
     text_representation:
       extension: .md
       format_name: markdown
       format_version: '1.3'
       jupytext_version: 1.13.8
   kernelspec:
-    display_name: Python 3
+    display_name: Python 3 (ipykernel)
     language: python
     name: python3
 ---
@@ -316,5 +317,71 @@ spec_cent_paris = calc_spectral_centroid(np.abs(lr.stft(x_paris + 0.05)), sr_par
 plt.plot(spec_cent_paris)
 plt.plot(spec_cent_paris + spec_band_paris)
 plt.plot(spec_cent_paris - spec_band_paris)
+plt.show()
+```
+
+# Spectral Rolloff
+
+Zeigt den Frequenzkoeffizienten an, unter dem sich der größte Anteil Energie (in diesem Fall 90%) im Spektrum befindet.
+
+${C \sum_{k=0}^{N-1} X_n(k)}$
+<!-- #endregion -->
+
+```python id="8rxoVQwsu2ev" colab={"base_uri": "https://localhost:8080/", "height": 1000} outputId="19eaf4fc-8cf1-446e-fc62-9c9346ff5696"
+def calc_spectral_rolloff(stft, sr, c=0.9):
+    
+    total_energy = np.sum(stft, axis=0)
+    freqs = lr.fft_frequencies(sr, (stft.shape[0] - 1) * 2)
+    spec_roll = np.zeros_like(total_energy)
+
+    for n in range(stft.shape[1]):
+
+        current_energy = 0
+        k = 0 # frequenz-indizes
+
+        while (current_energy <= c * total_energy[n]) and (k < stft.shape[0]):
+
+            current_energy += stft[k, n]
+            k += 1
+        
+        spec_roll[n] = freqs[k]
+
+    return spec_roll
+
+spec_roll_piano = calc_spectral_rolloff(np.abs(lr.stft(x_piano + 0.05)), sr_piano)
+plot_feature_waveform(spec_roll_piano, x_piano)
+plot_feature_stft(spec_roll_piano, np.abs(stft_piano), sr_piano)
+spec_roll_paris = calc_spectral_rolloff(np.abs(lr.stft(x_paris + 0.05, n_fft=1024)), sr_paris)
+plot_feature_waveform(spec_roll_paris, x_paris)
+plot_feature_stft(spec_roll_paris, np.abs(lr.stft(x_paris + 0.05, n_fft=1024)), sr_paris, gamma=1)
+```
+
+<!-- #region id="AmcuQ9Qqu2ev" -->
+# Spectral Flatness
+
+Wie "flach" ist das Spektrum?
+
+--> geräuschartige Klänge: hohe Flachheit
+
+--> (quasi-)periodische Klänge: niedrige Flachheit
+
+${\displaystyle \mathrm{flatness} = \dfrac{\exp\left(\frac{1}{N}\sum_{k=0}^{N-1}\log(X_n(k)^2)\right)}{\frac{1}{N}\sum_{k=0}^{N-1}X_n(k)^2}}$
+<!-- #endregion -->
+
+```python id="aVVOKnCBu2ev" colab={"base_uri": "https://localhost:8080/", "height": 577} outputId="6ec86133-58a0-4b4d-c87f-68432c8bfb0b"
+def calc_spectral_flatness(stft):
+    pow_stft = stft ** 2
+    spec_flat = np.exp(np.mean(np.log(pow_stft), axis=0)) / np.mean(pow_stft, axis=0)
+    return spec_flat
+
+spec_flat_piano = calc_spectral_flatness(np.abs(lr.stft(x_piano + 0.05)))
+plot_feature_waveform(spec_flat_piano, x_piano)
+spec_flat_paris = calc_spectral_flatness(np.abs(lr.stft(x_paris + 0.05)))
+plot_feature_waveform(spec_flat_paris, x_paris)
+```
+
+```python colab={"base_uri": "https://localhost:8080/", "height": 542} id="Rfpf8OZn3yQf" outputId="4e32a99c-d21f-4256-d932-ce1427752146"
+plt.figure(figsize=(20, 10))
+lr.display.specshow(np.log10(1 + np.abs(stft_paris)))
 plt.show()
 ```

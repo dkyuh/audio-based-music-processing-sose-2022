@@ -14,7 +14,7 @@
 - **[21. Juni 2022 | Log-Freq-Scaled-Spectrogram](/sessions/10_logfreq.md)**
 - **[28. Juni 2022 | Non-Negative Matrix Factorization](/sessions/11_nmf.md)**
 - **[5. Juli 2022 | More Audio Features](/sessions/12_more_audio_features.md)**
-- **12. Juli 2022 |** 
+- **[12. Juli 2022 | More Audio Features II](/sessions/13_more_audio_features_2.md)**
 - **19. Juli 2022 |** 
 
 ## Übungsblätter
