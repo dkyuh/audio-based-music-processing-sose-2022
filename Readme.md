@@ -31,6 +31,7 @@
 	- [ueb_05_stft_heisenberg_loesungsvorschlag](/uebungsblaetter/ueb_05_stft_heisenberg_loesungsvorschlag.ipynb)
 - bis 5. Juli 2022: [ueb_06_chroma](/uebungsblaetter/ueb_06_chroma.ipynb)
 	- [ueb_06_chroma_loesungsvorschlag](/uebungsblaetter/ueb_06_chroma_loesungsvorschlag.ipynb)
+- bis 1. August 2022: [ueb_07_kmeans_clustering](/uebungsblaetter/ueb_07_kmeans_clustering.ipynb)
 
 ## Topics
 - [git](/topics/git.md)
@@ -62,5 +63,4 @@
 - Track Separation using SMS-Tools
 - (Acoustic Environment Analysis)
 - Onset Detection
-- Clustering / Classification
 - f0-estimation
